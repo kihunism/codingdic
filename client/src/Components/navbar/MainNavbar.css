@@ -1,0 +1,37 @@
+.MainNavbar {
+    background-color: black;
+    height: 80px;
+    display: flex;
+}
+
+.MainNavbar-logo {
+    height: 60px;
+    width: 300px;
+    margin-left: 13%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.ML-btn {
+    text-align: center;
+    margin-top: 1.5%;
+    margin-left: 50%;
+}
+
+.Mypage-btn {
+    cursor: pointer;
+    color: white;
+    background-color: black;
+    border: 0px;
+    font-size: 23px;
+    margin-left: 45%;
+    margin-right: 2%;
+}
+
+.Logout-btn {
+    cursor: pointer;
+    color: white;
+    background-color: black;
+    border: 0px;
+    font-size: 23px;
+}
