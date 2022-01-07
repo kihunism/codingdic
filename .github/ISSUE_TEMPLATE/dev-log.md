@@ -1,6 +1,6 @@
 ---
 name: Dev log
-about: "[Devlog]"
+about: Dev log
 title: ''
 labels: ''
 assignees: ''
@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 제목에 복사붙여넣기 하기   
-[Error log] 0000. 00. 00 (W)
+[Dev log] 0000. 00. 00 (W)
 
 ### Devlog 기록
 

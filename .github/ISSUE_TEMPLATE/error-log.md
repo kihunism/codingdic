@@ -1,6 +1,6 @@
 ---
 name: Error log
-about: "[Error handling log]"
+about: Error log
 title: ''
 labels: ''
 assignees: ''
