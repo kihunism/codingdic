@@ -1,0 +1,100 @@
+.Center-logo-div {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 0.5%;
+}
+
+.Center-login-input {
+    text-align: center;
+}
+
+.Login-input {
+    font-size: 18px;
+    padding: 8px;
+    width: 350px;
+    height: 30px;
+    margin-top: 0.3%;
+    margin-bottom: 0.3%;
+    border-radius: 6px;
+    border: 1px solid rgba(0,0,0,0.26);
+}
+
+.Login-button {
+    font-size: 20px;
+    height: 50px;
+    width: 370px;
+    margin-top: 0.3%;
+    margin-bottom: 0.3%;
+    border: 0;
+    color: white;
+    background-color: black;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.Signup-button {
+    font-size: 20px;
+    height: 50px;
+    width: 370px;
+    margin-top: 0.3%;
+    margin-bottom: 0.3%;
+    border: 0;
+    color: white;
+    background-color: black;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.Login-OR {
+    color: teal;
+    font-size: 24px;
+}
+
+.Social-login-button {
+    text-align:center;
+}
+
+.Google-button {
+    background-color: grey;
+    cursor: pointer;
+    border: 0;
+    position: relative;
+    border-radius: 6px;
+    color: white;
+    font-size: 18px;
+    height: 50px;
+    width: 370px;
+    margin-top: 0.3%;
+    margin-bottom: 0.3%;
+    text-align:center;
+}
+
+.Naver-button {
+    background-color: rgb(40,209,17);
+    cursor: pointer;
+    border: 0;
+    position: relative;
+    border-radius: 6px;
+    color: white;
+    font-size: 18px;
+    height: 50px;
+    width: 370px;
+    margin-top: 0.3%;
+    margin-bottom: 0.3%;
+    text-align:center;
+}
+
+.Kakao-button {
+    background-color: rgb(252,229,30);
+    cursor: pointer;
+    border: 0;
+    position: relative;
+    border-radius: 6px;
+    color: black;
+    font-size: 18px;
+    height: 50px;
+    width: 370px;
+    margin-top: 0.3%;
+    margin-bottom: 0.3%;
+    text-align:center;
+}

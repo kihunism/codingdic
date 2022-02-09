@@ -12,4 +12,4 @@ module.exports = async (req, res) => {
         },
         message: 'signup OK'
     })
-}
+} 
